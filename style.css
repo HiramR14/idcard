@@ -1,0 +1,8 @@
+#idCard {
+    background: purple;
+    border: 4px solid gold;
+    width: 100px;
+    height: 50px;
+    margin: 25px;
+    text-align: center;
+}
